@@ -18,7 +18,6 @@ Projects I've made/working on:
 
 Projects I contribute to:
 - [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
-- [Blake Expansion](https://gamebanana.com/mods/660113)
 - Vs Hundrec
 
 ---
